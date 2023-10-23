@@ -81,6 +81,8 @@ flex-shrink: 0;
 
 .dispositivos {
     text-align: center;
+    display: inline-block;
+    align-items: center;
 }
 
 .dispositivos__titulo {
