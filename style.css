@@ -1,0 +1,90 @@
+:root {
+    --branco-principal: #FFFFFF;
+    --botao-azul: #167BF7;
+    --cor-de-fundo: #00030C;
+    --fonte-principal: 'Inter';
+    --fonte-secundaria: 'Koulen';
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-principal);
+}
+
+.principal{
+    font-family: var(--fonte-principal);
+    color: #FFF;
+    text-align: center;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background-image: url("Background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    align-items: center;
+    text-align: center;
+}
+
+.secundario{
+    font-family: var(--fonte-secundaria);
+    color: #FFF;
+    text-align: center;
+    font-family: Koulen;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 36px */
+}
+
+.container {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.Raiden{
+    width: 531px;
+    height: 1301px;
+    flex-shrink: 0;
+}
+
+.images{
+    width: 319px;
+height: 251px;
+flex-shrink: 0;
+}
+
+.download{
+    width: 301px;
+height: 298px;
+transform: rotate(5.625deg);
+flex-shrink: 0;
+}
+
+.png-transparent{
+    width: 1007px;
+height: 612px;
+flex-shrink: 0;
+}
+
+.descricao__titulo {
+    font-weight: 700;
+    font-size: 48px;
+    color: var(--branco-principal);
+    margin-bottom: 0.1em;
+}
+
+.descricao__texto {
+    color: var(--cinza-secundario);
+}
+
+.dispositivos {
+    text-align: center;
+}
+
+.dispositivos__titulo {
+    font-size: 48px;
+    color: var(--branco-principal);
+}
+
