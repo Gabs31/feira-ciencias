@@ -14,7 +14,7 @@ body {
 .principal{
     font-family: var(--fonte-principal);
     color: #FFF;
-    text-align: center;
+    text-align: right;
     font-size: 28px;
     font-style: normal;
     font-weight: 700;
@@ -22,8 +22,8 @@ body {
     background-image: url("Background.png");
     background-repeat: no-repeat;
     background-size: contain;
-    align-items: center;
-    text-align: center;
+    align-items: right;
+    
 }
 
 .secundario{
