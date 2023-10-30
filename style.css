@@ -23,6 +23,10 @@ body {
     background-repeat: no-repeat;
     background-size: contain;
     align-items: right;
+    width: 1453.999px;
+    height: 907.093px;
+    transform: rotate(0.154deg);
+    flex-shrink: 0; 
     
 }
 
