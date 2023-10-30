@@ -90,6 +90,9 @@ flex-shrink: 0;
     text-align: center;
     display: flex;
     align-items: center;
+    width: 985px;
+    height: 330px;
+    flex-shrink: 0;
 }
 
 .dispositivos__titulo {
