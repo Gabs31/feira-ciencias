@@ -19,6 +19,10 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+    
+}
+
+.principal {
     background-image: url("Background.png");
     background-repeat: no-repeat;
     background-size: contain;
@@ -27,7 +31,6 @@ body {
     height: 907.093px;
     transform: rotate(0.154deg);
     flex-shrink: 0; 
-    
 }
 
 .secundario{
