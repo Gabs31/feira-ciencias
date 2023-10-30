@@ -95,6 +95,7 @@ flex-shrink: 0;
 .dispositivos__titulo {
     font-size: 48px;
     color: var(--branco-principal);
+    display: flex;
 }
 
 .container__botao {
