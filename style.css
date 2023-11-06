@@ -124,6 +124,7 @@ flex-shrink: 0;
     font-style: normal;
     font-weight: 400;
     line-height: 150%; /* 24px */
+    align-items: left;
 }
 
 .botao_secundario {
@@ -135,6 +136,7 @@ flex-shrink: 0;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    align-items: left;
 }
 
 .container__aviso {
@@ -146,6 +148,7 @@ flex-shrink: 0;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    align-items: left;
 }
 .lista__item {
     display: inline-block;
