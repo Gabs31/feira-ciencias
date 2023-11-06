@@ -5,6 +5,10 @@
     --fonte-principal: 'Inter';
     --fonte-secundaria: 'Koulen';
 }
+*{
+    padding: 0px;
+    margin: 0px
+}
 
 body {
     background-color: var(--cor-de-fundo);
