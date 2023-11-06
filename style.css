@@ -143,5 +143,7 @@ flex-shrink: 0;
     font-weight: 400;
     line-height: normal;
 }
-width: 1453.999px;
-    height: 907.093px;
+.lista__item{
+    display: inline-block;
+
+}
