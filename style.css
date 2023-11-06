@@ -26,8 +26,7 @@ body {
     background-image: url("Background.png");
     background-repeat: no-repeat;
     background-size: contain;
-    align-items: right;
-    
+    align-items: center;   
     transform: rotate(0.154deg);
     flex-shrink: 0; 
     width: 100%;
